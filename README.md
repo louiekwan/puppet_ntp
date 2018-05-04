@@ -1,1 +1,2 @@
-# puppet_ntp
+# 
+Puppet module to manage NTP
