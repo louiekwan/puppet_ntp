@@ -1,0 +1,19 @@
+{
+  "name": "puppet_ntp",
+  "version": "0.1.0",  
+  "author": "Louie KWAN",
+  "summary": "Module to manage NTP",
+  "license": "Apache-2.0",
+  "source": "https://github.com/louiekwan/puppet_ntp.git",
+  "project_page": "https://github.com/louiekwan/puppet_ntp",
+  "tags": ["ntp"],
+  "dependencies": [
+    { "name":"puppetlabs/stdlib", "version_requirement": ">= 4.17.0 < 5.0.0" }
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [ "16.04" ]
+    }
+  ]
+}
