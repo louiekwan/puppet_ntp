@@ -1,5 +1,5 @@
 {
-  "name": "puppet_ntp",
+  "name": "puppet-ntp",
   "version": "0.1.0",  
   "author": "Louie KWAN",
   "summary": "Module to manage NTP",
